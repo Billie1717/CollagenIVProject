@@ -1,0 +1,2259 @@
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 3125 
+3.0 0 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2973 
+3.0 152 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2943 
+3.0 182 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2943 
+3.0 182 
+4.0 0 
+5.0 0 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2781 
+3.0 314 
+4.0 3 
+5.0 27 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2781 
+3.0 314 
+4.0 0 
+5.0 30 
+6.0 0 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2618 
+3.0 434 
+4.0 3 
+5.0 66 
+6.0 4 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2614 
+3.0 434 
+4.0 3 
+5.0 66 
+6.0 8 
+7.0 0 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2469 
+3.0 539 
+4.0 9 
+5.0 87 
+6.0 20 
+7.0 1 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2447 
+3.0 539 
+4.0 6 
+5.0 108 
+6.0 24 
+7.0 1 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2345 
+3.0 620 
+4.0 18 
+5.0 108 
+6.0 32 
+7.0 2 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2299 
+3.0 630 
+4.0 0 
+5.0 150 
+6.0 44 
+7.0 2 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2297 
+3.0 632 
+4.0 0 
+5.0 150 
+6.0 44 
+7.0 2 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2172 
+3.0 708 
+4.0 3 
+5.0 180 
+6.0 60 
+7.0 2 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2170 
+3.0 710 
+4.0 0 
+5.0 183 
+6.0 60 
+7.0 2 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2050 
+3.0 761 
+4.0 12 
+5.0 219 
+6.0 80 
+7.0 3 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 2043 
+3.0 761 
+4.0 3 
+5.0 231 
+6.0 84 
+7.0 3 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1924 
+3.0 821 
+4.0 54 
+5.0 219 
+6.0 104 
+7.0 3 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1912 
+3.0 821 
+4.0 9 
+5.0 276 
+6.0 104 
+7.0 3 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1912 
+3.0 821 
+4.0 3 
+5.0 282 
+6.0 104 
+7.0 3 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1810 
+3.0 853 
+4.0 3 
+5.0 336 
+6.0 120 
+7.0 3 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1810 
+3.0 853 
+4.0 3 
+5.0 336 
+6.0 120 
+7.0 3 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1695 
+3.0 895 
+4.0 12 
+5.0 369 
+6.0 148 
+7.0 6 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1688 
+3.0 895 
+4.0 3 
+5.0 381 
+6.0 152 
+7.0 6 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1599 
+3.0 907 
+4.0 12 
+5.0 408 
+6.0 192 
+7.0 7 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1587 
+3.0 899 
+4.0 6 
+5.0 414 
+6.0 212 
+7.0 7 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1524 
+3.0 922 
+4.0 36 
+5.0 399 
+6.0 236 
+7.0 8 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1506 
+3.0 918 
+4.0 3 
+5.0 426 
+6.0 264 
+7.0 8 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1506 
+3.0 918 
+4.0 3 
+5.0 426 
+6.0 264 
+7.0 8 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1420 
+3.0 910 
+4.0 11 
+5.0 471 
+6.0 300 
+7.0 13 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1420 
+3.0 910 
+4.0 0 
+5.0 480 
+6.0 300 
+7.0 15 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1330 
+3.0 932 
+4.0 3 
+5.0 504 
+6.0 336 
+7.0 20 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1325 
+3.0 928 
+4.0 6 
+5.0 498 
+6.0 348 
+7.0 20 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1266 
+3.0 946 
+4.0 21 
+5.0 504 
+6.0 368 
+7.0 20 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1260 
+3.0 942 
+4.0 6 
+5.0 513 
+6.0 384 
+7.0 20 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1205 
+3.0 958 
+4.0 36 
+5.0 516 
+6.0 388 
+7.0 22 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1185 
+3.0 936 
+4.0 0 
+5.0 582 
+6.0 400 
+7.0 22 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1182 
+3.0 936 
+4.0 0 
+5.0 573 
+6.0 412 
+7.0 22 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1121 
+3.0 934 
+4.0 0 
+5.0 582 
+6.0 460 
+7.0 28 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1120 
+3.0 932 
+4.0 0 
+5.0 585 
+6.0 460 
+7.0 28 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1071 
+3.0 932 
+4.0 9 
+5.0 573 
+6.0 512 
+7.0 28 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1068 
+3.0 928 
+4.0 3 
+5.0 582 
+6.0 516 
+7.0 28 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1020 
+3.0 925 
+4.0 39 
+5.0 561 
+6.0 548 
+7.0 32 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1017 
+3.0 913 
+4.0 9 
+5.0 606 
+6.0 548 
+7.0 32 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 1016 
+3.0 913 
+4.0 3 
+5.0 609 
+6.0 552 
+7.0 32 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 952 
+3.0 923 
+4.0 6 
+5.0 630 
+6.0 580 
+7.0 34 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 951 
+3.0 923 
+4.0 3 
+5.0 630 
+6.0 584 
+7.0 34 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 892 
+3.0 925 
+4.0 6 
+5.0 642 
+6.0 624 
+7.0 36 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 893 
+3.0 921 
+4.0 3 
+5.0 648 
+6.0 624 
+7.0 36 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 847 
+3.0 906 
+4.0 18 
+5.0 660 
+6.0 656 
+7.0 38 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 840 
+3.0 908 
+4.0 3 
+5.0 672 
+6.0 664 
+7.0 38 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 813 
+3.0 897 
+4.0 33 
+5.0 660 
+6.0 684 
+7.0 38 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 805 
+3.0 889 
+4.0 6 
+5.0 687 
+6.0 700 
+7.0 38 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 805 
+3.0 889 
+4.0 6 
+5.0 687 
+6.0 700 
+7.0 38 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 759 
+3.0 878 
+4.0 9 
+5.0 705 
+6.0 728 
+7.0 46 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 757 
+3.0 878 
+4.0 9 
+5.0 699 
+6.0 736 
+7.0 46 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 722 
+3.0 869 
+4.0 18 
+5.0 708 
+6.0 760 
+7.0 48 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 722 
+3.0 869 
+4.0 9 
+5.0 717 
+6.0 760 
+7.0 48 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 691 
+3.0 856 
+4.0 24 
+5.0 720 
+6.0 784 
+7.0 50 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 689 
+3.0 856 
+4.0 9 
+5.0 729 
+6.0 792 
+7.0 50 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 663 
+3.0 861 
+4.0 21 
+5.0 720 
+6.0 804 
+7.0 56 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 654 
+3.0 851 
+4.0 12 
+5.0 744 
+6.0 808 
+7.0 56 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 652 
+3.0 849 
+4.0 15 
+5.0 741 
+6.0 812 
+7.0 56 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 626 
+3.0 839 
+4.0 12 
+5.0 747 
+6.0 844 
+7.0 57 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 626 
+3.0 839 
+4.0 12 
+5.0 747 
+6.0 844 
+7.0 57 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 593 
+3.0 834 
+4.0 18 
+5.0 741 
+6.0 880 
+7.0 59 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 591 
+3.0 832 
+4.0 15 
+5.0 744 
+6.0 884 
+7.0 59 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 571 
+3.0 821 
+4.0 36 
+5.0 738 
+6.0 900 
+7.0 59 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 564 
+3.0 809 
+4.0 15 
+5.0 774 
+6.0 904 
+7.0 59 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 564 
+3.0 809 
+4.0 12 
+5.0 777 
+6.0 904 
+7.0 59 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 538 
+3.0 795 
+4.0 18 
+5.0 786 
+6.0 928 
+7.0 60 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 537 
+3.0 795 
+4.0 12 
+5.0 789 
+6.0 932 
+7.0 60 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 512 
+3.0 792 
+4.0 15 
+5.0 774 
+6.0 968 
+7.0 64 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 512 
+3.0 792 
+4.0 15 
+5.0 774 
+6.0 968 
+7.0 64 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 499 
+3.0 777 
+4.0 21 
+5.0 783 
+6.0 980 
+7.0 65 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 498 
+3.0 777 
+4.0 15 
+5.0 786 
+6.0 984 
+7.0 65 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 480 
+3.0 763 
+4.0 36 
+5.0 762 
+6.0 1016 
+7.0 68 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 471 
+3.0 761 
+4.0 15 
+5.0 786 
+6.0 1024 
+7.0 68 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 471 
+3.0 761 
+4.0 15 
+5.0 786 
+6.0 1024 
+7.0 68 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 449 
+3.0 745 
+4.0 15 
+5.0 810 
+6.0 1036 
+7.0 70 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 448 
+3.0 743 
+4.0 15 
+5.0 813 
+6.0 1036 
+7.0 70 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 419 
+3.0 733 
+4.0 15 
+5.0 810 
+6.0 1076 
+7.0 72 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 421 
+3.0 731 
+4.0 15 
+5.0 810 
+6.0 1076 
+7.0 72 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 402 
+3.0 723 
+4.0 30 
+5.0 798 
+6.0 1100 
+7.0 72 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 398 
+3.0 721 
+4.0 15 
+5.0 819 
+6.0 1100 
+7.0 72 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 386 
+3.0 712 
+4.0 30 
+5.0 816 
+6.0 1104 
+7.0 77 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 381 
+3.0 704 
+4.0 18 
+5.0 837 
+6.0 1108 
+7.0 77 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 383 
+3.0 702 
+4.0 18 
+5.0 837 
+6.0 1108 
+7.0 77 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 361 
+3.0 704 
+4.0 18 
+5.0 825 
+6.0 1136 
+7.0 81 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 360 
+3.0 702 
+4.0 18 
+5.0 828 
+6.0 1136 
+7.0 81 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 342 
+3.0 697 
+4.0 18 
+5.0 837 
+6.0 1152 
+7.0 79 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 339 
+3.0 697 
+4.0 18 
+5.0 840 
+6.0 1152 
+7.0 79 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 319 
+3.0 695 
+4.0 33 
+5.0 828 
+6.0 1168 
+7.0 82 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 318 
+3.0 693 
+4.0 18 
+5.0 846 
+6.0 1168 
+7.0 82 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 318 
+3.0 693 
+4.0 18 
+5.0 846 
+6.0 1168 
+7.0 82 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 302 
+3.0 684 
+4.0 21 
+5.0 837 
+6.0 1196 
+7.0 85 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 302 
+3.0 684 
+4.0 18 
+5.0 840 
+6.0 1196 
+7.0 85 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 287 
+3.0 682 
+4.0 21 
+5.0 846 
+6.0 1204 
+7.0 85 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 285 
+3.0 680 
+4.0 18 
+5.0 849 
+6.0 1208 
+7.0 85 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 269 
+3.0 682 
+4.0 18 
+5.0 843 
+6.0 1228 
+7.0 85 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 268 
+3.0 682 
+4.0 18 
+5.0 840 
+6.0 1232 
+7.0 85 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 263 
+3.0 682 
+4.0 21 
+5.0 837 
+6.0 1236 
+7.0 86 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 259 
+3.0 676 
+4.0 18 
+5.0 846 
+6.0 1240 
+7.0 86 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 259 
+3.0 676 
+4.0 18 
+5.0 846 
+6.0 1240 
+7.0 86 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 249 
+3.0 682 
+4.0 18 
+5.0 834 
+6.0 1256 
+7.0 86 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 248 
+3.0 680 
+4.0 18 
+5.0 837 
+6.0 1256 
+7.0 86 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 242 
+3.0 672 
+4.0 18 
+5.0 846 
+6.0 1260 
+7.0 87 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 243 
+3.0 671 
+4.0 18 
+5.0 846 
+6.0 1260 
+7.0 87 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 234 
+3.0 669 
+4.0 18 
+5.0 840 
+6.0 1276 
+7.0 88 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 233 
+3.0 669 
+4.0 21 
+5.0 834 
+6.0 1280 
+7.0 88 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 229 
+3.0 666 
+4.0 21 
+5.0 834 
+6.0 1284 
+7.0 91 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 226 
+3.0 662 
+4.0 18 
+5.0 840 
+6.0 1288 
+7.0 91 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 225 
+3.0 660 
+4.0 18 
+5.0 843 
+6.0 1288 
+7.0 91 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 215 
+3.0 655 
+4.0 18 
+5.0 843 
+6.0 1300 
+7.0 94 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 215 
+3.0 655 
+4.0 18 
+5.0 843 
+6.0 1300 
+7.0 94 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 207 
+3.0 653 
+4.0 18 
+5.0 840 
+6.0 1312 
+7.0 95 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 206 
+3.0 653 
+4.0 18 
+5.0 837 
+6.0 1316 
+7.0 95 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 198 
+3.0 651 
+4.0 27 
+5.0 837 
+6.0 1316 
+7.0 96 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 197 
+3.0 649 
+4.0 21 
+5.0 846 
+6.0 1316 
+7.0 96 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 196 
+3.0 647 
+4.0 21 
+5.0 849 
+6.0 1316 
+7.0 96 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 184 
+3.0 651 
+4.0 21 
+5.0 843 
+6.0 1328 
+7.0 98 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 186 
+3.0 649 
+4.0 21 
+5.0 843 
+6.0 1328 
+7.0 98 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 182 
+3.0 645 
+4.0 21 
+5.0 843 
+6.0 1336 
+7.0 98 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 182 
+3.0 642 
+4.0 21 
+5.0 846 
+6.0 1336 
+7.0 98 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 178 
+3.0 635 
+4.0 21 
+5.0 855 
+6.0 1336 
+7.0 100 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 178 
+3.0 635 
+4.0 21 
+5.0 855 
+6.0 1336 
+7.0 100 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 174 
+3.0 638 
+4.0 21 
+5.0 855 
+6.0 1336 
+7.0 101 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 174 
+3.0 638 
+4.0 21 
+5.0 855 
+6.0 1336 
+7.0 101 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 174 
+3.0 638 
+4.0 21 
+5.0 855 
+6.0 1336 
+7.0 101 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 171 
+3.0 638 
+4.0 21 
+5.0 858 
+6.0 1336 
+7.0 101 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 171 
+3.0 638 
+4.0 21 
+5.0 858 
+6.0 1336 
+7.0 101 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 167 
+3.0 637 
+4.0 21 
+5.0 861 
+6.0 1336 
+7.0 103 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 165 
+3.0 635 
+4.0 21 
+5.0 861 
+6.0 1340 
+7.0 103 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 161 
+3.0 629 
+4.0 24 
+5.0 864 
+6.0 1344 
+7.0 103 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 161 
+3.0 629 
+4.0 21 
+5.0 867 
+6.0 1344 
+7.0 103 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 156 
+3.0 628 
+4.0 24 
+5.0 861 
+6.0 1352 
+7.0 104 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 154 
+3.0 626 
+4.0 21 
+5.0 864 
+6.0 1356 
+7.0 104 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 154 
+3.0 626 
+4.0 21 
+5.0 864 
+6.0 1356 
+7.0 104 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 148 
+3.0 625 
+4.0 21 
+5.0 858 
+6.0 1368 
+7.0 105 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 148 
+3.0 625 
+4.0 21 
+5.0 858 
+6.0 1368 
+7.0 105 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 140 
+3.0 621 
+4.0 21 
+5.0 861 
+6.0 1376 
+7.0 106 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 140 
+3.0 621 
+4.0 21 
+5.0 861 
+6.0 1376 
+7.0 106 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 137 
+3.0 619 
+4.0 24 
+5.0 855 
+6.0 1384 
+7.0 106 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 137 
+3.0 619 
+4.0 21 
+5.0 858 
+6.0 1384 
+7.0 106 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 137 
+3.0 619 
+4.0 21 
+5.0 858 
+6.0 1384 
+7.0 106 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 133 
+3.0 618 
+4.0 21 
+5.0 861 
+6.0 1384 
+7.0 108 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 133 
+3.0 618 
+4.0 21 
+5.0 861 
+6.0 1384 
+7.0 108 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 132 
+3.0 617 
+4.0 21 
+5.0 858 
+6.0 1388 
+7.0 109 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 132 
+3.0 617 
+4.0 21 
+5.0 858 
+6.0 1388 
+7.0 109 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 124 
+3.0 612 
+4.0 21 
+5.0 852 
+6.0 1404 
+7.0 112 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 124 
+3.0 612 
+4.0 21 
+5.0 852 
+6.0 1404 
+7.0 112 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 124 
+3.0 612 
+4.0 21 
+5.0 852 
+6.0 1404 
+7.0 112 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 123 
+3.0 612 
+4.0 21 
+5.0 849 
+6.0 1408 
+7.0 112 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 125 
+3.0 610 
+4.0 21 
+5.0 849 
+6.0 1408 
+7.0 112 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 118 
+3.0 608 
+4.0 21 
+5.0 849 
+6.0 1416 
+7.0 113 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 118 
+3.0 608 
+4.0 21 
+5.0 849 
+6.0 1416 
+7.0 113 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 115 
+3.0 607 
+4.0 21 
+5.0 846 
+6.0 1420 
+7.0 116 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 113 
+3.0 609 
+4.0 21 
+5.0 846 
+6.0 1420 
+7.0 116 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 108 
+3.0 606 
+4.0 21 
+5.0 843 
+6.0 1428 
+7.0 119 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 108 
+3.0 606 
+4.0 21 
+5.0 843 
+6.0 1428 
+7.0 119 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 105 
+3.0 608 
+4.0 21 
+5.0 843 
+6.0 1428 
+7.0 120 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 101 
+3.0 606 
+4.0 21 
+5.0 837 
+6.0 1440 
+7.0 120 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 101 
+3.0 606 
+4.0 21 
+5.0 837 
+6.0 1440 
+7.0 120 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 97 
+3.0 604 
+4.0 21 
+5.0 840 
+6.0 1440 
+7.0 123 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 99 
+3.0 602 
+4.0 21 
+5.0 840 
+6.0 1440 
+7.0 123 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 96 
+3.0 602 
+4.0 21 
+5.0 834 
+6.0 1448 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 96 
+3.0 602 
+4.0 21 
+5.0 834 
+6.0 1448 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 94 
+3.0 600 
+4.0 24 
+5.0 831 
+6.0 1452 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 94 
+3.0 600 
+4.0 21 
+5.0 834 
+6.0 1452 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 94 
+3.0 600 
+4.0 21 
+5.0 834 
+6.0 1452 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 93 
+3.0 600 
+4.0 21 
+5.0 831 
+6.0 1456 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 92 
+3.0 600 
+4.0 21 
+5.0 828 
+6.0 1460 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 90 
+3.0 600 
+4.0 21 
+5.0 822 
+6.0 1468 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 89 
+3.0 598 
+4.0 21 
+5.0 825 
+6.0 1468 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 86 
+3.0 594 
+4.0 24 
+5.0 825 
+6.0 1472 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 86 
+3.0 594 
+4.0 21 
+5.0 828 
+6.0 1472 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 81 
+3.0 594 
+4.0 24 
+5.0 822 
+6.0 1480 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 80 
+3.0 594 
+4.0 21 
+5.0 822 
+6.0 1484 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 80 
+3.0 594 
+4.0 21 
+5.0 822 
+6.0 1484 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 77 
+3.0 592 
+4.0 21 
+5.0 819 
+6.0 1492 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 77 
+3.0 592 
+4.0 21 
+5.0 819 
+6.0 1492 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 74 
+3.0 588 
+4.0 21 
+5.0 822 
+6.0 1496 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 74 
+3.0 588 
+4.0 21 
+5.0 822 
+6.0 1496 
+7.0 124 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 73 
+3.0 587 
+4.0 21 
+5.0 822 
+6.0 1496 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 73 
+3.0 587 
+4.0 21 
+5.0 822 
+6.0 1496 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 73 
+3.0 587 
+4.0 21 
+5.0 822 
+6.0 1496 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 72 
+3.0 587 
+4.0 21 
+5.0 819 
+6.0 1500 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 71 
+3.0 587 
+4.0 21 
+5.0 816 
+6.0 1504 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 69 
+3.0 583 
+4.0 21 
+5.0 822 
+6.0 1504 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 69 
+3.0 583 
+4.0 21 
+5.0 822 
+6.0 1504 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 66 
+3.0 583 
+4.0 21 
+5.0 813 
+6.0 1516 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 66 
+3.0 583 
+4.0 21 
+5.0 813 
+6.0 1516 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 62 
+3.0 583 
+4.0 24 
+5.0 810 
+6.0 1520 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 62 
+3.0 583 
+4.0 21 
+5.0 813 
+6.0 1520 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 62 
+3.0 583 
+4.0 21 
+5.0 813 
+6.0 1520 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 60 
+3.0 581 
+4.0 21 
+5.0 813 
+6.0 1524 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 60 
+3.0 581 
+4.0 21 
+5.0 813 
+6.0 1524 
+7.0 126 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 60 
+3.0 580 
+4.0 21 
+5.0 813 
+6.0 1524 
+7.0 127 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 60 
+3.0 580 
+4.0 21 
+5.0 813 
+6.0 1524 
+7.0 127 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 59 
+3.0 580 
+4.0 21 
+5.0 813 
+6.0 1524 
+7.0 128 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 59 
+3.0 580 
+4.0 21 
+5.0 813 
+6.0 1524 
+7.0 128 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 58 
+3.0 578 
+4.0 24 
+5.0 813 
+6.0 1524 
+7.0 128 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 57 
+3.0 576 
+4.0 21 
+5.0 819 
+6.0 1524 
+7.0 128 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 57 
+3.0 576 
+4.0 21 
+5.0 819 
+6.0 1524 
+7.0 128 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 56 
+3.0 576 
+4.0 21 
+5.0 816 
+6.0 1528 
+7.0 128 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 56 
+3.0 576 
+4.0 21 
+5.0 816 
+6.0 1528 
+7.0 128 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 55 
+3.0 576 
+4.0 21 
+5.0 816 
+6.0 1528 
+7.0 129 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 55 
+3.0 576 
+4.0 21 
+5.0 816 
+6.0 1528 
+7.0 129 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 55 
+3.0 576 
+4.0 21 
+5.0 816 
+6.0 1528 
+7.0 129 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 55 
+3.0 576 
+4.0 21 
+5.0 816 
+6.0 1528 
+7.0 129 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 54 
+3.0 574 
+4.0 21 
+5.0 819 
+6.0 1528 
+7.0 129 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 54 
+3.0 574 
+4.0 21 
+5.0 819 
+6.0 1528 
+7.0 129 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 54 
+3.0 574 
+4.0 21 
+5.0 819 
+6.0 1528 
+7.0 129 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 54 
+3.0 574 
+4.0 21 
+5.0 819 
+6.0 1528 
+7.0 129 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 54 
+3.0 574 
+4.0 21 
+5.0 819 
+6.0 1528 
+7.0 129 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 53 
+3.0 573 
+4.0 21 
+5.0 816 
+6.0 1532 
+7.0 130 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 53 
+3.0 573 
+4.0 21 
+5.0 816 
+6.0 1532 
+7.0 130 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 53 
+3.0 572 
+4.0 21 
+5.0 816 
+6.0 1532 
+7.0 131 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 53 
+3.0 572 
+4.0 21 
+5.0 816 
+6.0 1532 
+7.0 131 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 53 
+3.0 572 
+4.0 21 
+5.0 816 
+6.0 1532 
+7.0 131 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 53 
+3.0 572 
+4.0 21 
+5.0 816 
+6.0 1532 
+7.0 131 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 53 
+3.0 572 
+4.0 21 
+5.0 816 
+6.0 1532 
+7.0 131 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 52 
+3.0 571 
+4.0 21 
+5.0 816 
+6.0 1532 
+7.0 133 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 52 
+3.0 571 
+4.0 21 
+5.0 816 
+6.0 1532 
+7.0 133 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 52 
+3.0 571 
+4.0 21 
+5.0 816 
+6.0 1532 
+7.0 133 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 52 
+3.0 571 
+4.0 21 
+5.0 816 
+6.0 1532 
+7.0 133 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 52 
+3.0 571 
+4.0 24 
+5.0 813 
+6.0 1532 
+7.0 133 
+# Particle Type (7 data points):
+# "Particle Type" Count
+1.0 3125 
+2.0 50 
+3.0 569 
+4.0 21 
+5.0 816 
+6.0 1536 
+7.0 133 
