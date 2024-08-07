@@ -21,3 +21,5 @@ For updated git repo in local:
 
 git remote add origin main https://<token>@github.com/Billie1717/CollagenIVProject
 git push origin HEAD:master (instead of git push origin main)
+git push origin master
+git pull origin master ???
