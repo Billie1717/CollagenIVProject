@@ -4,7 +4,16 @@ https://download.lammps.org/tars/
 
 The version used in this work is: lammps-15Jun2023
 
-With some packages edited, namely the fix bond react files and fix bond make/break
+With some packages edited, namely the files in the REACTION package and some files in the MC package (see below)
+
+all simulations were run on Lammps built with the following packages :
+
+make yes-dipole
+make yes-extra-pair
+make yes-rigid
+make yes-molecule
+make yes-reaction
+make yes-MC
 
 # Files edited in folder /src
 
