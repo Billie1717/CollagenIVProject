@@ -1,10 +1,8 @@
-
 # The inputs required and typical parameters used for each simulation protocol:
 
 Python files run by eg:
 
 python3 build_StretchNonEquilib.py ${foldernameadd} ${t_mix} ${t_bonds} ${t_stretch} ${t_relax} ${NBM_Cyc} ${XStretch} ${k_angle} ${Nevery} ${Blen} ${MakeDist} ${BreakDist} ${MakeProb} ${BreakProb} ${seed}
-
 
 ## build_Assembly.py:
 
@@ -51,9 +49,6 @@ MakeProb---------- 1.0-------------- The probability of making a bond between tw
 BreakProb--------- 1.0-------------- The probability of breaking a bond when it is > BreakDist * Blen away. Varies between {0.0001,0.01}
 seed-------------- 1---------------- Random seed for - integer, for creating random seeds for initial velocity and lengevin thermostat
 
- ${foldernameadd} ${t_mix} ${t_bonds} ${t_stretch} ${t_relax} ${NBM_Cyc} ${XStretch} ${k_angle} ${Nevery} ${Blen} ${MakeDist} ${BreakDist} ${MakeProb} ${BreakProb} ${seed}
- ${foldernameadd} ${t_mix} ${t_bonds} ${t_stretch} ${t_relax} ${NBM_Cyc} ${XStretch} ${k_angle} ${Nevery} ${Blen} ${ChemBond} ${prob} ${seed}
-#####-------- Parameters used ----------####
 
 ## /slab_stretchXY/
 
