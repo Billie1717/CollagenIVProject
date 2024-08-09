@@ -24,6 +24,6 @@ AdjacencyMatrix.ipynb
     
 ## Histrogram_Types.py 
     
-<ins>Description</ins>
+<ins>Description</ins> \\
 
-<ins>Usage</ins>
+<ins>Usage</ins> \n
