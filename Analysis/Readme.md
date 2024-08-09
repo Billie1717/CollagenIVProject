@@ -14,8 +14,11 @@ AdjacencyMatrix.ipynb
 ## MoleculeAngle.py
 
 <ins>Description</ins>
+
     Takes as input the positions of protomers (in /dumplin/ folder output from simulations) and returns the dot protuct of the vector of that protomer with the x-axis
+    
 <ins>Usage</ins>
+
     python MoleculeAngle.py ${filename} ${fileOut} ${NumMols}
     Where filename is .../dumplin/lammpsT.000
     fileout is name of the output file
