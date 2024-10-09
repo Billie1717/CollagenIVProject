@@ -6,6 +6,23 @@ python3 build_StretchNonEquilib.py ${foldernameadd} ${t_mix} ${t_bonds} ${t_stre
 
 In this folder, you can change/sweep parameters using the bash script runMakeNonEq.sh which will run the above python line
 
+# IF pre-stress is required (uniform stretch in x- and y-):
+change line 620 build_StretchNonEquilib.py from:
+fo.write('fix                    fDeform all deform 1 x delta '+str(-XStretch*0.5)+' '+str(XStretch*0.5)+ ' remap x\n')
+
+to:
+Nstretch = 20
+for i in range(Nstretch):
+    fo.write('fix                    fDeformX all deform 1 x delta '+str(-XStretch*0.5/Nstretch)+' '+str(XStretch*0.5/Nstretch)+ ' remap x\n')
+    fo.write('run                    ${tstretchcycl}\n')
+    fo.write('unfix fDeformX\n')
+    fo.write('fix                    fDeformY all deform 1 y delta '+str(-XStretch*0.5/Nstretch)+' '+str(XStretch*0.5/Nstretch)+ ' remap x\n')
+    fo.write('run                    ${tstretchcycl}\n')
+    fo.write('unfix fDeformY\n')
+
+# For larger simulations (the size which was used for the AFT-alignment analysis):
+input data file is in folder /LargerSimulations_InputConfig/
+
 # for smaller ablataion runs, the parameters should be the same as AFT but not xstretch (due to smaller simulations):
 
 ## build_StretchNonEquilib.py
